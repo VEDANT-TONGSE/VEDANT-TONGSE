@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:  
-👨‍💻 About Me<br><br>🔭 Currently Working On<br><br>Artificial Intelligence & Data Science projects<br><br>Data analytics and visualization dashboards<br> <br>Machine learning solutions using real-world datasets<br><br>👯 Open to Collaborate On<br><br>Open-source AI & ML initiatives<br><br>Data science, Python, and Kaggle projects<br><br>Innovative, impact-driven applications<br><br>🤝 Seeking Help With<br><br>Advanced machine learning and deep learning techniques<br><br>Model optimization and deployment strategies<br><br>🌱 Currently Learning<br><br>Machine Learning & Deep Learning<br><br>Python for Data Science<br><br>Data Visualization (Tableau, Power BI)<br><br>Version Control using Git & GitHub<br><br>💬 Ask Me About<br><br>Python programming<br><br>Data analysis and visualization<br><br>AI & ML fundamentals<br><br>⚡ Fun Fact<br><br>Passionate about transforming data into actionable insights .   
+👨‍💻 About Me<br><br>🔭 Currently Working On<br><br>Artificial Intelligence & Data Science projects<br><br>Data analytics and visualization dashboards<br> <br>Machine learning solutions using real-world datasets<br><br>👯 Open to Collaborate On<br><br>  
 
    
 
