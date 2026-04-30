@@ -1,10 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:  
-👨‍💻 About Me<br><br>🔭 Currently Working On<br><br>Artificial Intelligence & Data Science projects<br><br>Data analytics and visualization dashboards<br> <br>Machine learning solutions using real-world datasets<br><br>👯 Open to Collaborate On<br><br>     
-
-  
- 
-
+👨‍💻 About Me<br><br>🔭 Currently Working On<br><br>Artificial Intelligence & Data Science projects<br><br>Data analytics and visualization dashboards<br> <br>Machine learning solutions using real-world datasets<br><br>👯 Open to Collaborate On<br><br> 
     
 ## 🌐 Socials: 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vedant_v.v) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedant-tongse-vtll0000ll/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vt.vedant.tongse@gmail.com) 
