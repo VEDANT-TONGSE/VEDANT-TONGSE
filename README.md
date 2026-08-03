@@ -5,6 +5,7 @@
 <br/>
 
 
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+AI%2FDS+Engineer;Full+Stack+%2B+Product+Engineering+Mindset;Building+Scalable%2C+Intelligent+Systems;Open+to+Full-Time+Opportunities;Open+To+Internship+Opportunities)](https://git.io/typing-svg)
 
 
