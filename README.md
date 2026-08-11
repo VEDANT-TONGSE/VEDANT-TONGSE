@@ -3,6 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=6,11,20&text=Vedant%20Ashok%20Tongse&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FDS%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=20" width="100%"/>
 
 <br/>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+AI%2FDS+Engineer;Full+Stack+%2B+Product+Engineering+Mindset;Building+Scalable%2C+Intelligent+Systems;Open+to+Full-Time+Opportunities;Open+To+Internship+Opportunities)](https://git.io/typing-svg)
 
 
