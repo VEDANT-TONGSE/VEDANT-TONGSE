@@ -13,15 +13,12 @@
 
 <br/>
 
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/VEDANT-TONGSE)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedant-tongse-vtll0000ll/)
 [![Email](https://img.shields.io/badge/Email-6366F1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vt.vedant.tongse@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-4F46E5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VEDANT-TONGSE)
 
 <br/>
-
-
 
 ![Profile Views](https://komarev.com/ghpvc/?username=VEDANT-TONGSE&style=flat-square&color=8b5cf6&label=PROFILE+VIEWS)
 ![Followers](https://img.shields.io/github/followers/VEDANT-TONGSE?style=flat-square&color=7c3aed&label=FOLLOWERS)
