@@ -344,7 +344,7 @@ Open To:
 
 ## 📫 Connect With Me
 
-<div align="center">
+<div align="center">    
 
 [![Gmail](https://img.shields.io/badge/Gmail-6366F1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vt.vedant.tongse@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedant-tongse-vtll0000ll/)
